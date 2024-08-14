@@ -13,3 +13,9 @@ After that when simulation continue we calculate the fractal dimension at matlab
 The method that we used was to select a random region with shape square and side legth L = 10, and then we calculate the sum of positions that have been occupied M. 
 Afterwards we repeat this procedure with the side of square to be increased by 10, but with same centre at every new square. 
 Finally, the fractal diamention is the mean of 20 consecutive repetitions, that can calculated from the slope of the least squares line at the graph M(L) 
+
+
+![image](https://github.com/user-attachments/assets/8ea52459-bf1c-412b-999f-04d821bd07af)
+
+![image](https://github.com/user-attachments/assets/c8f1eab4-5bb2-4e85-bc09-5a05c0443066)
+
